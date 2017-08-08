@@ -1,8 +1,17 @@
+bat (37.0) unstable; urgency=high
+
+  * FINAL RELEASE OF BAT
+  * prevent crash in processing filenames with 'weird' character
+  * proper cleanup after lzop barf
+  * allow storing of top level JSON files in a separate directory
+
+ -- Armijn Hemel <armijn@binaryanalysis.org>  Wed, 26 Jul 2017 00:49:14 +0200
+
 bat (36.0) unstable; urgency=high
 
   * prevent several crashes in processing Android files
 
- -- Armijn Hemel <armijn@binaryanalysis.org>  Tue, 31 Dec 2016 16:18:00 +0100
+ -- Armijn Hemel <armijn@binaryanalysis.org>  Sat, 31 Dec 2016 16:18:00 +0100
 
 bat (35.0) unstable; urgency=high
 
